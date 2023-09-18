@@ -1,0 +1,22 @@
+{
+  "license": {
+    "name": "CCCL",
+    "version": "1.0.0.1",
+    "description": "This is an example software license agreement.",
+    "issued_by": "Mediasoft Data Systems Limited",
+    "issued_date": "2023-09-18",
+    "valid_from": "2023-09-18",
+    "valid_until": "2024-09-18",
+    "terms": [
+      "You are granted a non-exclusive, non-transferable license to use the software.",
+      "You may not distribute or sublicense the software without written permission.",
+      "This license is valid for one year from the date of issue."
+    ],
+    "contact_information": {
+      "company": "Your Company Name",
+      "address": "123 Main Street, City, Country",
+      "email": "contact@company.com",
+      "phone": "+1 (123) 456-7890"
+    }
+  }
+}
